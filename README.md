@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Boghani</h1>
-<h3 align="center">Passionate Full stack developer💻</h3>
+
 
 - 💬 Ask me about **#Web Developement #Frontend developement #Backend Developement**
 
